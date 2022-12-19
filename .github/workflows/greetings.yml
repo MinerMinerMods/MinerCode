@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "Welcome to MinerCode, a MPS powered Language"
-        pr-message: "Hope you understand MPS"
+        pr-message: "Hope you understand HTML here"
